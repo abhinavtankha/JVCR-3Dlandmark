@@ -2,4 +2,4 @@
 *.xml
 *.pyc
 *.pth.tar
-*.csv
+#*.csv
